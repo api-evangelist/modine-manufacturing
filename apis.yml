@@ -28,6 +28,8 @@ apis:
     description: >-
       The Modine Manufacturing API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/modine-manufacturing-company
   - type: Website
     url: https://www.modine.com
 maintainers:
