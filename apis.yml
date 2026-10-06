@@ -33,7 +33,7 @@ tags:
 description: >-
   Modine Manufacturing is a major US corporation and Fortune 1000 company. The Modine Manufacturing API provides programmatic access to its platform services, data, and integrations for enterprise customers and partners.
 created: '2026-04-19'
-modified: '2026-04-19'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: modine-manufacturing:modine-manufacturing-api
@@ -51,6 +51,10 @@ apis:
     description: >-
       The Modine Manufacturing API provides access to platform services and data for enterprise integration and automation.
 common:
+  - url: https://www.modine.com/who-we-are/news/
+    type: Blog
+  - url: https://www.modine.com/feed/
+    type: BlogRSS
   - type: DomainSecurity
     url: security/modine-manufacturing-domain-security.yml
   - type: LinkedIn
