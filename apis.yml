@@ -51,6 +51,12 @@ apis:
     description: >-
       The Modine Manufacturing API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: Plans
+    url: plans/modine-manufacturing-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/modine-manufacturing-rate-limits.yml
+  - type: FinOps
+    url: finops/modine-manufacturing-finops.yml
   - url: https://www.modine.com/who-we-are/news/
     type: Blog
   - url: https://www.modine.com/feed/
